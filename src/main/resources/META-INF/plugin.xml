@@ -1,7 +1,7 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
     <id>com.github.bryanshihpeng.aiderintellijplugin</id>
-    <name>aider-intellij-plugin Template</name>
+    <name>aider helper</name>
     <vendor>bryanshihpeng</vendor>
 
     <depends>com.intellij.modules.platform</depends>
